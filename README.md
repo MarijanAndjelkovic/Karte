@@ -62,4 +62,4 @@ A 3D multiplayer-ready card game inspired by UNO, built in Unity with C#. The pr
 - [ ] Color selection UI overlay when playing Wild (`cc`) and Wild Draw Four (`pl4`) cards
 - [ ] Action card effects (Skip, Reverse, +2, +4) and turn order manager
 - [ ] Top-card UI indicator for improved visibility across multiplayer camera angles
-- [ ] Full Photon PUN room synchronization for 2–4 players
+- [ ] Full Photon PUN room synchronization for multyble players
